@@ -5,7 +5,6 @@
 - BlackBelt
   - VPC
   - (NAT GateWay)
-- Recursionist(4~6節)
 ---
 - CloudFrontの調査
 - AI講義読破
@@ -17,6 +16,8 @@
   - ECS
   - EKS
   - Fargate
+
+- Recursionist(4~6節)
 
 
 ### [ok] 2021/11/02
