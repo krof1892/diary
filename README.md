@@ -1,19 +1,22 @@
 # diary
 
-### 2021/11/03
 - AI講義(半分)
-- AWS-SAP　対策本
-  - 4章　組織の複雑さに対応する設計
+
 - BlackBelt
   - ECS
   - EKS
   - Fargate
   - VPC
-  - NAT GateWay
+  - (NAT GateWay)
 - Recursionist(4~6節)
 ---
 - CloudFrontの調査
 - AI講義読破
+
+### 2021/11/03
+- AWS-SAP　対策本
+  - 4章　組織の複雑さに対応する設計
+
 
 ### [ok] 2021/11/02
 - AWS-SAP　対策本
