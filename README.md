@@ -9,6 +9,7 @@
   - Elastic Beanstalk
   - Lambda
   - AWS Batch
+- Recursionist(3節)
 
 ALBとNLBの違いがあまり分かってなかった。
 
