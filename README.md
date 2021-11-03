@@ -1,8 +1,5 @@
 # diary
 
-- AI講義
-- CloudFrontの調査
-
 ### 2021/11/03
 - AWS-SAP　対策本
   - 4章　組織の複雑さに対応する設計
@@ -13,7 +10,10 @@
   - VPC
   - (NAT GateWay)
 - Recursionist(4~6節)
+- AI講義(第一部)
+- CloudFrontの調査
 
+BlackBeltを読むだけだとあまりポイントが分からないから、先に問題集で勉強しようと思う。
 
 ### [ok] 2021/11/02
 - AWS-SAP　対策本
