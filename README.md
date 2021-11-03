@@ -4,10 +4,10 @@
 - AWS-SAP　対策本
   - 5章
 - AWS 問題集
-- Recursionist(7~9)
+- [x] Recursionist(7~9)
 - Gopher道場
 
-### 2021/11/03
+### [ok]2021/11/03
 - AWS-SAP　対策本
   - 4章　組織の複雑さに対応する設計
 - BlackBelt
