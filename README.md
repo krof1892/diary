@@ -1,13 +1,7 @@
 # diary
 
-- AI講義(半分)
-
-- BlackBelt
-  - VPC
-  - (NAT GateWay)
----
+- AI講義
 - CloudFrontの調査
-- AI講義読破
 
 ### 2021/11/03
 - AWS-SAP　対策本
@@ -16,7 +10,8 @@
   - ECS
   - EKS
   - Fargate
-
+  - VPC
+  - (NAT GateWay)
 - Recursionist(4~6節)
 
 
