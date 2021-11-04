@@ -1,18 +1,17 @@
 # diary
 
 ## [ ] 2021/11/05
-- [ ] AWS-SAP　対策本
-  - [ ] 5章
-- [ ] AWS 問題集
+- [x] AWS-SAP　対策本(昨日の分)
+- [ ] AWS 問題集(7~12ぐらい)
 - [x] Recursionist(10~12)
-- [ ] Gopher道場
+- [x] Gopher道場(~変数)
 
 ## [no] 2021/11/04
-- [ ] AWS-SAP　対策本
-  - [ ] 5章
+- [x] AWS-SAP　対策本
+  - [x] 5章
 - [x] AWS 問題集(1~6)
 - [x] Recursionist(7~9)
-- [x] Gopher道場(1)
+- [x] Gopher道場
 
 ## [ok] 2021/11/03
 - [x] AWS-SAP　対策本
