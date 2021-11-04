@@ -4,15 +4,15 @@
 - [ ] AWS-SAP　対策本
   - [ ] 5章
 - [ ] AWS 問題集
-- [ ] Recursionist(10~12)
+- [x] Recursionist(10~12)
 - [ ] Gopher道場
 
 ## [no] 2021/11/04
 - [ ] AWS-SAP　対策本
   - [ ] 5章
-- [x] AWS 問題集
+- [x] AWS 問題集(1~6)
 - [x] Recursionist(7~9)
-- [ ] Gopher道場
+- [x] Gopher道場(1)
 
 ## [ok] 2021/11/03
 - [x] AWS-SAP　対策本
