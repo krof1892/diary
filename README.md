@@ -5,8 +5,7 @@
   - [x] 6
 - [x] AWS 問題集(13~18)
 - [x] Recursionist(13~15)
-- [x] Gopher道場(~関数と型)
-
+- [x] Gopher道場(~map)
 
 
 ## [ok] 2021/11/05
