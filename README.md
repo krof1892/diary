@@ -4,8 +4,8 @@ AI講義読む
 
 # 2021/11/10(水)
 
-- [ ] AWS-SAP　対策本
-  - [ ] 8
+- [x] AWS-SAP　対策本
+  - [x] 8
 - [x] AWS 問題集(~46)10
 - [x] Recursionist(~27)3
 - [ ] Gopher道場(1時間分)
