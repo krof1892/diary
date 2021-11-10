@@ -6,8 +6,8 @@ AI講義読む
 
 - [ ] AWS-SAP　対策本
   - [ ] 8
-- [ ] AWS 問題集(~46)10
-- [ ] Recursionist(~27)3
+- [x] AWS 問題集(~46)10
+- [x] Recursionist(~27)3
 - [ ] Gopher道場(1時間分)
 
 
