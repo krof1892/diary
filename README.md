@@ -6,7 +6,7 @@
 
 - [x] AI講義読む(1)
 
-- [ ] Recursionist(~39)3
+- [x] Recursionist(~39)3
 - [ ] AWS-SAP　対策本 9章(45/75)15
 - [ ] AWS 問題集(~76)10
 - [ ] Gopher道場(1時間分)
