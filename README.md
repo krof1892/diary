@@ -1,14 +1,37 @@
 # diary
 
-- SAP59
-- SAA152(~81)
+
+- 11/16　1周目SAA解ききる(概要把握) 5
+-　　~11/19 2周目SAA解ききる(解説までしっかり) 10
+
+11/21~11/23(59*7)
+- SAP59(概要把握)
+申し込み
+- SAP59(解説までしっかり)
+
+- UDEMY模試(概要把握) 
+- UDEMY模試(解説までしっかり) 
+https://www.udemy.com/course/aws-solutions-architect-professional-practice-exams-amazon/
+
+
+---
+
+
+5:00~7:00 (2) aws
+7:30~9:00 (1.5) aws
+10:00~11:30 1.5
+12:30~16:00 2.5
+16:30~19:00 2.5
+20:30~22:00 (1.5) Go
+
+- [ ] Gopher道場(８時間)
 
 
 
 # 2021/11/15(月)
 
 - [　] Recursionist(~42)3
-- [x] AWS 問題集(~８１)5
+- [x] AWS 問題集(~８１)
 
 ---
 
